@@ -1,0 +1,33 @@
+<menu xmlns:android="http://schemas.android.com/apk/res/android" >
+    <item 
+        android:id="@+id/Share" 
+        android:icon="@drawable/share" 
+        android:showAsAction="always" 
+        android:title="Share"></item>
+    <item 
+        android:id="@+id/Save" 
+        android:icon="@drawable/save" 
+        android:showAsAction="always" 
+        android:title="Save"></item>
+    <item 
+        android:id="@+id/Chooser" 
+        android:icon="@drawable/picture" 
+        android:showAsAction="always" 
+        android:title="Chooser"></item>
+    <item 
+        android:id="@+id/Captions"
+        android:icon="@drawable/edit" 
+        android:title="Captions" 
+        android:showAsAction="always"></item>
+    <item 
+        android:id="@+id/Refresh" 
+        android:icon="@drawable/refresh" 
+        android:title="Refresh" 
+        android:showAsAction="always"></item>
+    <item 
+        android:id="@+id/Remove" 
+        android:icon="@drawable/remove" 
+        android:title="Remove" 
+        android:showAsAction="always"></item>
+
+</menu>
